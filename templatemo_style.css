@@ -316,3 +316,8 @@ a.read_more { display: block; margin-top: 40px; float: right; width: 118px; heig
     height: 30px;
     display: inline-block;
 }
+
+.border
+{
+    border: 1px black solid;
+}
